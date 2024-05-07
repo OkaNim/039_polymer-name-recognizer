@@ -3,7 +3,7 @@ Polymer sample codes such as 'P1' can be also recognized.<br>
 <br>
 <br>
 ## How to use
-Please create the script such as 039_test.py in /src and run.<br>
+After downloading the source codes, please create the script such as 039_test.py in /src and run.<br>
 ```
 python 039_test.py
 ```
