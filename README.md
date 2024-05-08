@@ -1,4 +1,4 @@
-Polymer names such as 'poly(ethylene oxide)' and 'PEO' can be recognized.<br>
+Polymer names such as 'poly(ethylene oxide)' and 'PEO' in text can be recognized.<br>
 Polymer sample codes such as 'P1' can be also recognized.<br>
 <br>
 <br>
